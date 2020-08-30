@@ -25,7 +25,7 @@ SECRET_KEY = 'x638_devadrgni1!xe51u25s)#&enq8%#f84&1bykh7o1m9w#y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'trastan.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'trastan.pythonanywhere.com', 'trastan.pythonanywhere.com/admin']
 
 
 # Application definition
